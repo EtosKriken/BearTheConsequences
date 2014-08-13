@@ -13,3 +13,7 @@ Bear should be able to maul people and have a sprint
 Try to survive the bear attack for the time given maybe? Kill the bear with traps? Get pieces of a weapon scrambled around the map to have a chance to fight against the bear? Or if you're manly enough go 1on1 vs the bear using the crowbar.
 
 NEED MOAR IDEAS
+
+##Stuff we need:
+1. Bear model
+2. Human models
